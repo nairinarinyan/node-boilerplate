@@ -7,7 +7,7 @@ import sharp from 'sharp';
 import { storageConfigToken, hostConfigToken } from '../config/config';
 import { join } from 'path';
 
-const { readFile, writeFile } = fs.promises;
+const { writeFile } = fs.promises;
 
 export interface UpdateBody {
     name?: string;
