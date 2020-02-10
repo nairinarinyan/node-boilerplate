@@ -1,0 +1,5 @@
+node_modules
+dist
+envs
+storage/images/*
+*.sql
