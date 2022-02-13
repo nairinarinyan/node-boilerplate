@@ -16,7 +16,7 @@
     "author": "change_this",
     "license": "UNLICENSED",
     "dependencies": {
-        "ajv": "^6.9.1",
+        "ajv": "^6.12.3",
         "bcrypt": "^3.0.7",
         "body-parser": "^1.18.3",
         "connect-redis": "^3.4.0",
